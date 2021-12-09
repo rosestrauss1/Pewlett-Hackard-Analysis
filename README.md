@@ -6,14 +6,16 @@ The purpose of this analysis is to use SQL to help prepare a company for mass re
 
 ## Results:
 
-* The Retiring Titles table indicates that the department most impacted by the labor shortage will be senior engineers and staff, and least impacted will be managers.
+* The Retirement Titles table indicates the total number of employees who are eligable to retire and how long they have worked in each position.
+
+*  The Retiring Titles table indicates that the department most impacted by the labor shortage will be senior engineers and staff, and least impacted will be managers.
 
 <img width="162" alt="Screen Shot 2021-12-09 at 5 36 35 PM" src="https://user-images.githubusercontent.com/92963227/145492481-7eb617b7-17a8-40e1-b5b7-00038bc8c1fb.png">
 
 
 * From the Mentorship Elegibility Table, it is clear that there is a large pool of employees who were born between January 1, 1965 and December 31, 1965 to join the mentorship program.
 
-* 
+* The Unique Titles table shows the most recent job titles employees who are retiring have held.
 
 ## Summary:
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
