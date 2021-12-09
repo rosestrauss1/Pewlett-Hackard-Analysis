@@ -25,6 +25,7 @@ Are there enough qualified, retirement-ready employees in the departments to men
 No, there are not enough retirement-ready employees in the department who are prepared to mentor the next generation of employees. 90,398 must be filled and only 1,940 employees are currently eligable to serve as mentors. We can further see this impact by reviewing the number of mentors who will be available in each department. 
 
 To find this information, I wrote an additional query as follows:
+
 SELECT COUNT(title), title
 INTO mentorship_by_title
 FROM mentorship_eligibilty
