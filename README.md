@@ -8,7 +8,7 @@ The purpose of this analysis is to use SQL to help prepare a company for mass re
 
 * The Retirement Titles table indicates the total number of employees who are eligable to retire and how long they have worked in each position.
 
-*  The Retiring Titles table indicates that the department most impacted by the labor shortage will be senior engineers and staff, and least impacted will be managers.
+*  The Retiring Titles table indicates the number of people retiring from each department, and shows that the department most impacted by the labor shortage will be senior engineers and staff, and least impacted will be managers.
 
 <img width="162" alt="Screen Shot 2021-12-09 at 5 36 35 PM" src="https://user-images.githubusercontent.com/92963227/145492481-7eb617b7-17a8-40e1-b5b7-00038bc8c1fb.png">
 
