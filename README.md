@@ -26,11 +26,13 @@ No, there are not enough retirement-ready employees in the department who are pr
 
 To find this information, I wrote an additional query as follows:
 
+```
 SELECT COUNT(title), title
 INTO mentorship_by_title
 FROM mentorship_eligibilty
 GROUP BY title
 ORDER BY count(title) DESC;
+```
 
 Unfortunatly, the resulting table, pictered below, indicated that the largest number of employees avaiable for mentorship are engineers, not senior engineers, so those avaiable for mentorship do not exactly meet the company's mentorship needs. There are only 352 senior engineers available for mentorship, and 29,414 who will be leaving the company.
 
